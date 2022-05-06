@@ -15,3 +15,6 @@ This repository is archive for assignments in pnu computer vision lecture.
 
 ### 04. RANSAC
 ![RANSAC](04-Ransac/library-match-ransac.jpg)
+
+### 05. Panorama
+![Panorama](04-Ransac/panorama-result.png)
