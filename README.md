@@ -18,3 +18,6 @@ This repository is archive for assignments in pnu computer vision lecture.
 
 ### 05. Panorama
 ![Panorama](05-Panorama/panorama-result.png)
+
+### 06. Epipolar
+![Epipolar](06-Epipolar/warrior.png)
